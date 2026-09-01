@@ -1,0 +1,21 @@
+# AI Chatbot Implementation Tasks
+
+- [x] Create `task.md` artifact
+- [x] Initialize `backend` directory
+  - [x] Run `npm init` and install dependencies (`express`, `cors`, `dotenv`, `@anthropic-ai/sdk`)
+  - [x] Create `.env.example` and `.gitignore`
+  - [x] Implement `server.js` with POST `/api/chat` endpoint (streaming)
+- [x] Initialize `frontend` directory
+  - [x] Create Vite React + TS app
+  - [x] Install Tailwind CSS and configure it with custom theme colors and fonts
+  - [x] Add Google Fonts to `index.html`
+  - [x] Install additional frontend dependencies (e.g., `lucide-react`)
+- [x] Implement Frontend Components
+  - [x] `Header.tsx`
+  - [x] `MessageBubble.tsx`
+  - [x] `TypingIndicator.tsx`
+  - [x] `InputBar.tsx`
+  - [x] `ChatWindow.tsx`
+  - [x] `App.tsx` (state management and API streaming logic)
+- [/] Verify functionality and styling
+- [ ] Create `walkthrough.md`
