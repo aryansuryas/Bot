@@ -1,4 +1,4 @@
-# AI Chat Bot
+# AI Chat Bot (openai) 
 
 A lightning-fast, sleek AI chat application built with React, Node.js, and Google's Gemini `gemini-3.6-flash` model.
 
